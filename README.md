@@ -1,4 +1,3 @@
-# Safe-Vault
 # SafeVault
 
 <h2><b>Project Overview  </b></h2>
